@@ -5,6 +5,7 @@ const recipesdb = [
       "https://cdn.apartmenttherapy.info/image/upload/v1560538280/k/Photo/Recipes/2019-07-recipe-31-days-of-vegetables/Veg-a-Day_celery-032.jpg",
     instructions: "burn it",
     id: 0,
+    audio: { title: "Instrumental Music", src: "/assets/testmusic.mp3" },
   },
   {
     food: "bread's",
